@@ -5,7 +5,7 @@ A simple web application for movie fanatics.
 - list movies from movie api
 - search movies by title
 - add movies to your favorite list
-- manage your favorite list(delete)
+- manage your favorite list (delete)
 
 ### Searching
 Type the titles of the movies in which you are interested in search bar.
